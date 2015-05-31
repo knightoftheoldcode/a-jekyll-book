@@ -1,3 +1,3 @@
-# Yet *another* chapter
+# Exploring Jekyll
 
 *This chapter left intentionally blank*

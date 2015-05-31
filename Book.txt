@@ -4,6 +4,6 @@ maketitle
 tableofcontents
 preface.md
 mainmatter:
-a_chapter.md
-another_chapter.md
-yet_another_chapter.md
+chapter-1-basic-project.md
+chapter-2-template-project.md
+chapter-3-exploring-jekyll.md

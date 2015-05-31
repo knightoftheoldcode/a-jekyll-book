@@ -1,10 +1,10 @@
 ---
 slug: jekyll-book
 filename: jekyll-book
-title: Title of the Book
-subtitle: Change me
-description: Change me.
-author: Author Name
+title: A Jekyll Book
+subtitle: Web Development for Mad Scientists
+description: This is my Jekyll Book. There are many like it, but this one is mine.
+author: tricorius
 copyright: 2015
 uuid: f2fc2231-9659-40ab-86da-e72c501ada77
 pdf_preview_page_range: 1..30
